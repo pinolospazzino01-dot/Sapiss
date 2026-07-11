@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Италия" tvg-id="92732" tvg-logo="[img]http://epg.propg.net/img/channel_icons/92732.png[/img]" ,RAI 1 (IT)
+http://rr2.vip2ip.com/~206379830366cb618447b8538cc93cb8440/92732/hls/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Италия" tvg-id="93627" tvg-logo="[img]http://epg.propg.net/img/channel_icons/93627.png[/img]" ,RAI 2 (IT)
+http://rr2.vip2ip.com/~206379830366cb618447b8538cc93cb8440/93627/hls/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Италия" tvg-id="94776" tvg-logo="[img]http://epg.propg.net/img/channel_icons/94776.png[/img]" ,RAI 3 (IT)
+http://rr2.vip2ip.com/~206379830366cb618447b8538cc93cb8440/94776/hls/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Италия" tvg-id="97359" tvg-logo="[img]http://epg.propg.net/img/channel_icons/97359.png[/img]" ,RAI 4 (IT)
+http://rr2.vip2ip.com/~206379830366cb618447b8538cc93cb8440/97359/hls/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Италия" tvg-id="95773" tvg-logo="[img]http://epg.propg.net/img/channel_icons/95773.png[/img]" ,RAI 5 (IT)
+http://rr2.vip2ip.com/~206379830366cb618447b8538cc93cb8440/95773/hls/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Италия" tvg-id="97471" tvg-logo="[img]http://epg.propg.net/img/channel_icons/97471.png[/img]" ,RAI News 24 (IT)
+http://rr2.vip2ip.com/~206379830366cb618447b8538cc93cb8440/97471/hls/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Италия" tvg-id="92861" tvg-logo="[img]http://epg.propg.net/img/channel_icons/92861.png[/img]" ,RAI Premium (IT)
+http://rr2.vip2ip.com/~206379830366cb618447b8538cc93cb8440/92861/hls/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Италия" tvg-id="98327" tvg-logo="[img]http://epg.propg.net/img/channel_icons/98327.png[/img]" ,RAI Sport (IT)
+http://rr2.vip2ip.com/~206379830366cb618447b8538cc93cb8440/98327/hls/pl.m3u8
